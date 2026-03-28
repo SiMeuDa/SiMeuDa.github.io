@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yesung Kwon"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his"  
+  bio              : "Current Servicing Republic Of Korea Army for Cryptologic Technician"
   location         : "Seoul, South Korea"
-  employer         : "Dongguk University"
+  employer         : "Dongguk University ( Undergraduate )"
   uri              : # URL
   email            : "yeskwon05@dgu.ac.kr" 
 
