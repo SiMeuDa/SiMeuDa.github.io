@@ -7,8 +7,6 @@ collection: portfolio
 Implemented by C language
 
 # [Caesar Cipher](https://github.com/SiMeuDa/cryptography/tree/master/classical/Caesar)
-## Support Standard IO and File IO
-
 ## Project Structure
 ```bash
 ├── include/
@@ -23,3 +21,4 @@ Implemented by C language
 
 ```
 - more information on my github link
+- Support Standard IO and File IO
