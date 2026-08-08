@@ -8,7 +8,7 @@ Implemented by C language
 
 # [Caesar Cipher](https://github.com/SiMeuDa/cryptography/tree/master/classical/Caesar)
 ## Project Structure
-```bash
+
 ├── include/
 ├── src/
 ├── main/
@@ -19,6 +19,5 @@ Implemented by C language
 ├── docs/
 └── README.md
 
-```
 - more information on my github link
 - Support Standard IO and File IO
