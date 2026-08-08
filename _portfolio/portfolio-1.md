@@ -1,10 +1,10 @@
 ---
-title: "01. Classical Cryptography"
-excerpt: "Caesar, Vigenère, Affine Crypto Logic<br/><img src='/images/500x300.png'>"
+title: "01. Cryptography"
+excerpt: "Classical , Block, public-key, hash Cryptology<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-Implemented by C language
+Codes are Implemented by Standard C language and Build by cmake
 
 # [Caesar Cipher](https://github.com/SiMeuDa/cryptography/tree/master/classical/Caesar)
 ## Project Structure
